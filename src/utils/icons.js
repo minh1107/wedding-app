@@ -1,0 +1,5 @@
+import 'boxicons'
+
+const icons = {
+    
+}
